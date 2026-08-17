@@ -1,1 +1,2 @@
-# Calculator
+# Calculator  
+This project is a basic calculator built using HTML, CSS, and JavaScript. HTML creates the calculator’s structure and buttons, CSS is used to design and style the interface, and JavaScript handles the calculations and user interactions. The calculator can perform basic operations such as addition, subtraction, multiplication, and division. This project helped me practice web development, JavaScript logic, and creating an interactive user interface.
